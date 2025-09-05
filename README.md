@@ -1,4 +1,4 @@
-# Fusion-FX
+# PixelForge
 
 ## Table of Contents
 
